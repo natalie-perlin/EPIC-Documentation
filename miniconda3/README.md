@@ -10,8 +10,7 @@ Last revision: December 5, 2022  (update as needed) @natalie-perlin
                 `BASH_ENV=/usr/share/lmod/lmod/init/bash`
                 
                 
-   b) installer - installer name to use or download from the URL (as in step 1).
-   
+   b) installer - installer name to use or download from the URL (as in step 1).  
           e.g., `installer="Miniconda3-py39_4.12.0-Linux-x86_64.sh"`
           
    c) version   - miniconda3 version
