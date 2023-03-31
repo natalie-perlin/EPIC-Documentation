@@ -29,7 +29,7 @@ conda install -yq conda=$version
 # from Linux dynamic linker
 conda install -c conda-forge -y ncurses
 # This only installs base miniconda3 environment
-# Need to a module for miniconda3!!!
+# Need to create a module for miniconda3!!!
 # Verify that the lua module template is present in $TEMPLATES
 #  - miniconda3template.lua - needs to have a correct path for the prefix variable.
 # Create a directory for the modulefiles, $MODULEFILES
